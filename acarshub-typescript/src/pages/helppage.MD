@@ -2,7 +2,7 @@
 
 ## About
 
-ACARS Hub is a collaborative, open source effort to easily enable reception of, feeding to [Airframes.io](http://airframes.io), and local viewing of VDLM2/ACARS messages.
+ACARS Hub is a collaborative, open source effort to easily enable reception and local viewing of VDLM2/ACARS messages.
 
 There are three main pages you can interact with:
 
@@ -15,7 +15,7 @@ There are three main pages you can interact with:
 
 ## What is ACARS
 
-ACARS is a pretty cool technology and these planes are sending an awful lot of information in a coded way. We are constantly working, along with the folks at [Airframes.io](http://airframes.io), to decode the messages in a more refined, human-readable way. This is an on-going project so expect to see both decoded and non-decoded messages.
+ACARS is a pretty cool technology and these planes are sending an awful lot of information in a coded way. We are constantly working to decode the messages in a more refined, human-readable way. This is an on-going project so expect to see both decoded and non-decoded messages.
 
 We've made an effort to provide a maximum amount of information about the message in a compact, yet readable, way. Below is a list of terms/acronyms used throughout the web app and what they represent.
 
@@ -53,6 +53,5 @@ ACARS Hub can also play a sound if your search term(s) are matched. You can togg
 
 ## Feedback / Help
 
-Your feedback has been instrumental in improving this little project from a bare-bones website showing raw data to what it is now, and it is instrumental to guiding future improvements and making it a complete solution for feeding, receiving and viewing ACARS/VDLM data. Please, don't be a stranger on the [Discord](https://discord.gg/sTf9uYF) server and let us know what you think!
-
-Also the [Discord](https://discord.gg/sTf9uYF) server is a great place to get technical assistance in setting up the container or troubleshooting any issues that you might run in to. No question is too simple, everyone is welcome, and there are plenty of great folks around to help out.
+- [This fork](https://github.com/katlol/docker-acarshub)
+- [Upstream project](https://github.com/sdr-enthusiasts/docker-acarshub)
